@@ -25,7 +25,10 @@ body {
     justify-content: center;
     border-radius: 50%;
     border: 0.1rem solid red;
+    box-shadow: 0 10px 14px rgba(0, 0, 0,0.5);
 }
+
+
 
 @media(max-width: 601px) {
     .cards {
