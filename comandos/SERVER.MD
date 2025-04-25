@@ -91,3 +91,12 @@ Adicione em http {}:
 
 client_max_body_size 30M;
 sudo systemctl restart nginx
+
+
+
+
+
+
+
+Lembre-se: Para usar MySQL no Django, você precisa instalar o conector:
+pip install mysqlclient
